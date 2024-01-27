@@ -216,4 +216,4 @@ El comando git fetch obtiene los cambios del repositorio remoto sin fusionarlos 
 ## Obtener y Fusionar Cambios del Repositorio Remoto
 El comando git pull origin nombre_de_rama obtiene y fusiona los cambios del repositorio remoto en el repositorio local. Simplifica el proceso de obtener y aplicar los cambios más recientes.
  
-a
+aaaaaa
